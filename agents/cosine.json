@@ -1,0 +1,20 @@
+[
+  {
+    "author_names": [
+      "Cosine CLI (gpt-5.4)"
+    ],
+    "author_mails": [
+      "agent@cosine.sh"
+    ],
+    "files": [
+      ".cosine/",
+      "cosine.toml",
+      ".cosine.toml"
+    ],
+    "branch_name_prefix": [],
+    "commit_message_prefix": [],
+    "labels": [],
+    "period_start": "",
+    "period_end": null
+  }
+]

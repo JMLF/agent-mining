@@ -1,0 +1,16 @@
+[
+  {
+    "author_names": [],
+    "author_mails": [],
+    "files": [
+      ".plandexignore",
+      ".plandex/",
+      ".plandex-v2"
+    ],
+    "branch_name_prefix": [],
+    "commit_message_prefix": [],
+    "labels": [],
+    "period_start": "",
+    "period_end": null
+  }
+]

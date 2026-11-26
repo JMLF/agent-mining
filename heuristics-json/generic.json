@@ -5,7 +5,8 @@
     ],
     "author_mails": [],
     "files": [
-      "AGENTS.md"
+      "AGENTS.md",
+      ".agents/"
     ],
     "branch_name_prefix": [],
     "commit_message_prefix": [],
